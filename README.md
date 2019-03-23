@@ -16,6 +16,7 @@ This activity is an Amazon-like storefront created using Node.js and MySQL. The 
    * stock_quantity (how much of the product is available in stores)
 
 Running this application will first display all of the items available for sale including the ids, names, and prices of products for sale.
+
 ![show all demo](https://github.com/tuayang/Node.js-MySQL/blob/master/images/show%20all%20items.jpg?raw=true)
 
 ---
